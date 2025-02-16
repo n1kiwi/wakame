@@ -1,7 +1,7 @@
 version: 1
 services:
   - type: web
-    name: 鯖プロそろそろモデ以上にして
+    name: 鯖プロそろそろモデ以上にして sakuya
     env: node
     plan: free
     buildCommand: npm install
